@@ -3,7 +3,7 @@
 Đồ án môn Blockchain - Hệ thống quản lý thiết bị phòng học sử dụng công nghệ Blockchain để đảm bảo tính minh bạch, an toàn và không thể thay đổi dữ liệu.
 ## Poster dự án
 
-![Poster](Poster.png)
+![Poster](Poster1.png)
 
 ## 🚀 Công nghệ sử dụng
 
