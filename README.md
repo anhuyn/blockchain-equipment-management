@@ -1,6 +1,9 @@
 # Hệ thống quản lý mượn trả thiết bị phòng học bằng Blockchain
 
 Đồ án môn Blockchain - Hệ thống quản lý thiết bị phòng học sử dụng công nghệ Blockchain để đảm bảo tính minh bạch, an toàn và không thể thay đổi dữ liệu.
+## Poster dự án
+
+![Poster](images/poster.png)
 
 ## 🚀 Công nghệ sử dụng
 
